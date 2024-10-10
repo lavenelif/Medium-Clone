@@ -1,0 +1,32 @@
+body{
+    background-color: #f7f4ed;
+}
+
+.bg-yellow{
+    background-color: #f7f4ed;
+}
+
+.border-bottom-dark{
+    border-bottom:1px solid rgba(41, 41, 41, 1)
+}
+
+.naw-item nav-link{
+    color:black;
+}
+
+.font{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:20px;
+    margin-top: 20px;
+    color:#000000;
+}
+
+.display-1{
+    font-family:'Times New Roman', Times, serif;
+    color:#242424;
+    margin-top: 20px;
+}
+
+.img{
+   margin-left:auto;
+}
